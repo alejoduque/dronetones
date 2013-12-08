@@ -12,13 +12,16 @@ Based on remote controlled flying devices we will explore different ways of gene
 
 
 --------------
+
 Our flying devices will generate sound by themselves and first revisions won't require any sound amplification process thus developing sound while gliding becomes one of the main interests to accomplish.
 Although at some point later on the process sound could be captured and sent in real-time to a sound system on the ground.
 
 The planes will broadcast video from an embedded camera with it the public/assistants/participants will be able to see through the 'drone' eyes. Allowing them to be seen real-time looking up at the drone.
 
 -> i think we have to be more clear on what we propose to present there. anyway, this is just a proposition, things will change before the public presentation.
+
 so, i propose to be more self confident :
+
 -----------------
 
 Our flying devices will generate sound by themselves: developing sound while gliding becomes one of the main interests to accomplish.
