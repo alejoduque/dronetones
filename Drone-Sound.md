@@ -10,14 +10,12 @@ rocket ever to go into the fringes of space**
 During **WW2**, the **v2** rocket broke both the sound barrier and earth's gravity constraints in order to strike enemies abroad. The sound it produced while crossing the sky became part of its terrorizing power.
 nowadays, the absence of sound is even more alarming: A drone strike won't be noticed and who triggers it will be displaced by the computer screen thousands of kilometers away. 
 
-We propose a performance around the frightening omnipresent power of 'drones'.
-Based on remote controlled flying devices we will explore different ways of generating sound. 
-
-Our flying devices will generate sound by themselves: developing sound while gliding becomes one of the main interests to accomplish.
+Based on remote controlled flying devices we will explore different ways of generating sound. We propose a performance around the frightening omnipresent power of 'drones'. Our flying devices will generate sound by themselves while gliding.
 
 The planes will broadcast sound and video from an embedded microphone and camera. Thanks to this, the public/assistants/participants will be able to hear and see through the 'drone' eyes. It would allow them to be seen in real-time looking up at the drone.
 
-##### "But it is a curve each of them feels, unmistakably. It is the parabola. They must have guessed, once or twice -- guessed and refused to believe -- that everything, always, collectively, had been moving toward that purified shape latent in the sky, that shape of no surprise, no second chance, no return. Yet they do move forever under it, reserved for its own black-and-white bad news certainly as if it were the rainbow, and they its children. . . ."	__Thomas Pynchon, Gravity's Rainbow__
+##### "But it is a curve each of them feels, unmistakably. It is the parabola. They must have guessed, once or twice -- guessed and refused to believe -- that everything, always, collectively, had been moving toward that purified shape latent in the sky, that shape of no surprise, no second chance, no return. Yet they do move forever under it, reserved for its own black-and-white bad news certainly as if it were the rainbow, and they its children...." 
+__Thomas Pynchon, Gravity's Rainbow__
 
 ### Technical description:
 
