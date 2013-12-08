@@ -29,7 +29,7 @@ In order to realize this project we need a 1 week residency to work on the sound
 ### Previous reference:
 ![BDDWS](http://coop.re/?BDDWS.head.138652948219)
 
-**[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) ("Bringing Down Drones With Stones")**
+**[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) "Bringing Down Drones With Stones"**
 
 ### Drones tracking people, people tracking drones
 
