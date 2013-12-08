@@ -10,25 +10,9 @@ nowadays, the absence of sound is even more alarming: A drone strike won't be no
 We propose a performance around the frightening omnipresent power of 'drones'.
 Based on remote controlled flying devices we will explore different ways of generating sound. 
 
-
---------------
-
-Our flying devices will generate sound by themselves and first revisions won't require any sound amplification process thus developing sound while gliding becomes one of the main interests to accomplish.
-Although at some point later on the process sound could be captured and sent in real-time to a sound system on the ground.
-
-The planes will broadcast video from an embedded camera with it the public/assistants/participants will be able to see through the 'drone' eyes. Allowing them to be seen real-time looking up at the drone.
-
--> i think we have to be more clear on what we propose to present there. anyway, this is just a proposition, things will change before the public presentation.
-
-so, i propose to be more self confident :
-
------------------
-
 Our flying devices will generate sound by themselves: developing sound while gliding becomes one of the main interests to accomplish.
 
-The planes will broadcast sound and video from an embedded microphone and camera. Thanks to this, the public/assistants/participants will be able to see through the 'drone' eyes. It would allow them to be seen in real-time looking up at the drone.
-
-
+The planes will broadcast sound and video from an embedded microphone and camera. Thanks to this, the public/assistants/participants will be able to hear and see through the 'drone' eyes. It would allow them to be seen in real-time looking up at the drone.
 
 
 ### Technical description:
@@ -49,7 +33,9 @@ In order to realize this project we need a 1 week residency to work on the sound
 
 A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of terror.
 
-We resist drone/UAV technologies of war and all the surveillance and control enforced through them by governments of fear and terror. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones". During the performance, the public is asked to bring down a radio controlled plane with whatever they can find at hand (water bottles, shoes, toilette paper, rocks, water, sticks were seen flying). A participatory performance to acknowledge those who have died -so far- under the coward "drone wars". 
+We resist drone/UAV technologies of war and all the surveillance and control enforced through them by governments of fear and terror. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones". During the performance, the public is asked to bring down a radio controlled plane with whatever they can find at hand (water bottles, shoes, toilette paper, rocks, water, sticks were seen flying). 
+
+A participatory performance to acknowledge those who have died -so far- under the coward "drone wars". 
 Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
 
 Presented at Desert Numérique in France, on July 2013. Next time We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
