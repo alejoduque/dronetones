@@ -31,13 +31,10 @@ In order to realize this project we need a 1 week residency to work on the sound
 
 **[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) "Bringing Down Drones With Stones"**
 
-### Drones tracking people, people tracking drones
+### Drones Tracking People. People Tracking Drones
 
 A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of terror.
 
-We resist drone/UAV technologies of war and all the surveillance and control enforced through them by governments of fear and terror. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones".
+We resist drone/UAV technologies of war and all the surveillance and control enforced through them by governments of fear and terror. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones". During the performance, the public is asked to bring down a radio controlled plane with whatever they can find at hand (water bottles, shoes, toillete paper, rocks, water, sticks were seen flying). A participatory performance to acknowledge those who have died [-so far-] under the coward "drone wars". Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
 
-During this performance, the public is asked to get down a radio controlled plane with whatever is at hand. This fun and participative performance is a way to acknowledging those who have died [-so far-] under the coward "drone wars". Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
-
-This performance was presented at Desert Numérique in France, on July 2013 and is ready to be present again.
-We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
+Presented at Desert Numérique in France, on July 2013. Next time We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
