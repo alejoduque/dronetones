@@ -29,10 +29,10 @@ In this line of sound search it might be necessary to control the speed of the m
 In order to realize this project we need a 1 week residency to work on the sound of the planes.
 
 ### Previous reference:
-**[BDDWS](http://youtu.be/4HavZE4WuaM) ("Bringing Down Drones With Stones")**
-![BDDWS](http://coop.re/?BDDWS.head.137461910812)
+![BDDWS](http://coop.re/?BDDWS.head.138652948219)
+**[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) ("Bringing Down Drones With Stones")**
 
-Drones tracking people, people tracking drones.
+**Drones tracking people, people tracking drones.**
 
 A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of terror.
 
@@ -42,5 +42,3 @@ During this performance, the public is asked to get down a radio controlled plan
 
 This performance was presented at Desert Numérique in France, on July 2013 and is ready to be present again.
 We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
-
-![BDDWS](http://coop.re/?BDDWS.head.138652948219)
