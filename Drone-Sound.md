@@ -1,5 +1,3 @@
-# Drone Music
-
 ![v2](http://southcarolina1670.files.wordpress.com/2012/04/v2-rocket.jpg)
 
 During WW2, the v2 rocket broke both the sound barrier and earth's gravity constraints in order to strike enemies abroad. The sound it produced while crossing the sky became part of its terrorizing power.
@@ -30,6 +28,7 @@ In order to realize this project we need a 1 week residency to work on the sound
 
 ### Previous reference:
 ![BDDWS](http://coop.re/?BDDWS.head.138652948219)
+
 **[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) ("Bringing Down Drones With Stones")**
 
 **Drones tracking people, people tracking drones.**
