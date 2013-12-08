@@ -45,11 +45,6 @@ In this line of sound search it might be necessary to control the speed of the m
 In order to realize this project we need a 1 week residency to work on the sound of the planes.
 -> is it better to ask for 2 week i order to have 1 week (?)
 
-### Previous reference:
-![BDDWS](http://coop.re/?BDDWS.head.138652948219)
-
-**[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) "Bringing Down Drones With Stones"**
-
 ### Drones Tracking People. People Tracking Drones
 
 A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of terror.
@@ -58,3 +53,8 @@ We resist drone/UAV technologies of war and all the surveillance and control enf
 Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
 
 Presented at Desert Numérique in France, on July 2013. Next time We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
+
+### Previous reference:
+![BDDWS](http://coop.re/?BDDWS.head.138652948219)
+
+**[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) "Bringing Down Drones With Stones"**
