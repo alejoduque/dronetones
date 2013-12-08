@@ -2,13 +2,12 @@
 
 _On October 3, 1942 the A-4 was first launched from Peenemunde. Breaking the sound barrier, it reached an altitude of sixty miles. It was the world's first launch of a ballistic missile and the first rocket ever to go into the fringes of space._
 
-
+## Drone Tone
 
 During WW2, the v2 rocket broke both the sound barrier and earth's gravity constraints in order to strike enemies abroad. The sound it produced while crossing the sky became part of its terrorizing power.
 nowadays, the absence of sound is even more alarming: A drone strike won't be noticed and who triggers it will be displaced by the computer screen thousands of kilometers away. 
 Based on remote controlled flying devices we will explore different ways of generating sound we propose a performance around the frightening omnipresent power of 'drones'.
 
-## Drone Tone
 
 Our flying devices will generate sound by themselves and first revisions won't require any sound amplification process thus developing sound while gliding becomes one of the main interests to accomplish.
 Although at some point later on the process sound could be captured and sent in real-time to a sound system on the ground.
