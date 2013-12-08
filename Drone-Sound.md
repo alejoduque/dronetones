@@ -12,19 +12,28 @@ Although at some point later on the process sound could be captured and sent in 
 
 The planes will broadcast video from an embedded camera with it the public/assistants/participants will be able to see through the 'drone' eyes. Allowing them to be seen real-time looking up at the drone.
 
+-> i think we have to be more clear on what we propose to present there. anyway, this is just a proposition, things will change before the public presentation.
+so, i propose to be more self confident :
+Our flying devices will generate sound by themselves: developing sound while gliding becomes one of the main interests to accomplish.
+
+The planes will broadcast sound and video from an embedded microphone and camera. Thanks to this, the public/assistants/participants will be able to see through the 'drone' eyes. It would allow them to be seen in real-time looking up at the drone.
+
+
+
 
 ### Technical description:
 
 2 custom made radio flying devices: electric powered plane or thermal wind glider with wingspan of about 1 or 2 meter will be controlled from the ground via radio signals.
 
 Different approach of making sound experimenting with:
-- The use of different materials attached to the wings, paper, tape, acriclyc.
+- The use of different materials attached to the wings, paper, tape, acyclic.
 - Using flutes. Tubes of variable size attached to the wing and fuselage of the planes letting the wind pass through holes that, depending on wind speed, will produce sound. Control gates can be added so one can close at will, via remote control, the aperture/pitch of the sound.
 - A third approach relates directly to the electric motor revolutions. Their high-speed vibration being itself a way to pace rhythm, attack, pace. Being in this case a sound related to the propeller qualities.
 
 In this line of sound search it might be necessary to control the speed of the motors based on a programmed routine that can be repeated by the different planes in the air. For such automation we might be using an on-board micro controller (ardupilot compatible http://www.diydrones.com/notes/ArduPilot).
 
 In order to realize this project we need a 1 week residency to work on the sound of the planes.
+-> is it better to ask for 2 week i order to have 1 week (?)
 
 ### Previous reference:
 ![BDDWS](http://coop.re/?BDDWS.head.138652948219)
@@ -35,6 +44,7 @@ In order to realize this project we need a 1 week residency to work on the sound
 
 A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of terror.
 
-We resist drone/UAV technologies of war and all the surveillance and control enforced through them by governments of fear and terror. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones". During the performance, the public is asked to bring down a radio controlled plane with whatever they can find at hand (water bottles, shoes, toillete paper, rocks, water, sticks were seen flying). A participatory performance to acknowledge those who have died [-so far-] under the coward "drone wars". Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
+We resist drone/UAV technologies of war and all the surveillance and control enforced through them by governments of fear and terror. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones". During the performance, the public is asked to bring down a radio controlled plane with whatever they can find at hand (water bottles, shoes, toilette paper, rocks, water, sticks were seen flying). A participatory performance to acknowledge those who have died -so far- under the coward "drone wars". 
+Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
 
 Presented at Desert Numérique in France, on July 2013. Next time We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
