@@ -1,5 +1,13 @@
 ![v2](https://raw.github.com/alejoduque/dronetones/master/imgs/2bit_V2.png)
 
+`3 cosas a sumar:
+
+-Participacion de invitados (alexandre y ursula de Usinet, Lenaig, Gordan, Roman, Olsen, Glerm, Luca)
+
+-MSST meets AAA (ASAT)
+
+-Usar el dibujo de Lenaig para la aplicacion.`
+
 During WW2, the v2 rocket broke both the sound barrier and earth's gravity constraints in order to strike enemies abroad. The sound it produced while crossing the sky became part of its terrorizing power.
 nowadays, the absence of sound is even more alarming: A drone strike won't be noticed and who triggers it will be displaced by the computer screen thousands of kilometers away. [On October 3, 1942 the A-4 was first launched from Peenemunde. Breaking the sound barrier, it reached an altitude of sixty miles. It was the world's first launch of a ballistic missile and the first rocket ever to go into the fringes of space].
 
