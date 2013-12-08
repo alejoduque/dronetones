@@ -2,7 +2,7 @@
 
 _On October 3, 1942 the A-4 was first launched from Peenemunde. Breaking the sound barrier, it reached an altitude of sixty miles. It was the world's first launch of a ballistic missile and the first rocket ever to go into the fringes of space._
 
-## Drone Tone
+# Drone Tone
 
 During WW2, the v2 rocket broke both the sound barrier and earth's gravity constraints in order to strike enemies abroad. The sound it produced while crossing the sky became part of its terrorizing power.
 nowadays, the absence of sound is even more alarming: A drone strike won't be noticed and who triggers it will be displaced by the computer screen thousands of kilometers away. 
@@ -31,7 +31,7 @@ The planes will broadcast sound and video from an embedded microphone and camera
 
 
 
-###      Technical description:
+### Technical description:
 
 2 custom made radio flying devices: electric powered plane or thermal wind glider with wingspan of about 1 or 2 meter will be controlled from the ground via radio signals.
 
@@ -45,7 +45,7 @@ In this line of sound search it might be necessary to control the speed of the m
 In order to realize this project we need a 1 week residency to work on the sound of the planes.
 -> is it better to ask for 2 week i order to have 1 week (?)
 
-### Drones Tracking People. People Tracking Drones
+# Drones Tracking People. People Tracking Drones
 
 A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of terror.
 
@@ -54,7 +54,7 @@ Estimates of those killed in strikes between 2004 and early 2013 range from arou
 
 Presented at Desert Numérique in France, on July 2013. Next time We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
 
-###      Previous reference:
+### Previous reference:
 ![BDDWS](http://coop.re/?BDDWS.head.138652948219)
 
 **[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) "Bringing Down Drones With Stones"**
