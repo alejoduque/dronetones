@@ -31,7 +31,7 @@ The planes will broadcast sound and video from an embedded microphone and camera
 
 
 
-### Technical description:
+###      Technical description:
 
 2 custom made radio flying devices: electric powered plane or thermal wind glider with wingspan of about 1 or 2 meter will be controlled from the ground via radio signals.
 
@@ -54,7 +54,7 @@ Estimates of those killed in strikes between 2004 and early 2013 range from arou
 
 Presented at Desert Numérique in France, on July 2013. Next time We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
 
-### Previous reference:
+###      Previous reference:
 ![BDDWS](http://coop.re/?BDDWS.head.138652948219)
 
 **[VIDEO BDDWS](http://youtu.be/4HavZE4WuaM) "Bringing Down Drones With Stones"**
