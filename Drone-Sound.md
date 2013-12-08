@@ -1,6 +1,9 @@
-![v2](https://raw.github.com/alejoduque/dronetones/master/imgs/2bit_V2.png)
+![v2](https://raw.github.com/alejoduque/dronetones/master/imgs/1bit_V2.png)
 
-_On October 3, 1942 the A-4 was first launched from Peenemunde. Breaking the sound barrier, it reached an altitude of sixty miles. It was the world's first launch of a ballistic missile and the first rocket ever to go into the fringes of space._
+**On October 3, 1942 the A-4 was first launched from Peenemunde.
+Breaking the sound barrier, <br /> it reached an altitude of sixty miles.
+It was the world's first launch of a ballistic missile and <br /> the first
+rocket ever to go into the fringes of space**
 
 # Drone Tone
 
@@ -14,7 +17,7 @@ Our flying devices will generate sound by themselves: developing sound while gli
 
 The planes will broadcast sound and video from an embedded microphone and camera. Thanks to this, the public/assistants/participants will be able to hear and see through the 'drone' eyes. It would allow them to be seen in real-time looking up at the drone.
 
-`But it is a curve each of them feels, unmistakably. It is the parabola. They must have guessed, once or twice -- guessed and refused to believe -- that everything, always, collectively, had been moving toward that purified shape latent in the sky, that shape of no surprise, no second chance, no return. Yet they do move forever under it, reserved for its own black-and-white bad news certainly as if it were the rainbow, and they its children. . . .`	― **Thomas Pynchon, Gravity's Rainbow**
+##### "But it is a curve each of them feels, unmistakably. It is the parabola. They must have guessed, once or twice -- guessed and refused to believe -- that everything, always, collectively, had been moving toward that purified shape latent in the sky, that shape of no surprise, no second chance, no return. Yet they do move forever under it, reserved for its own black-and-white bad news certainly as if it were the rainbow, and they its children. . . ."	― Thomas Pynchon, Gravity's Rainbow
 
 ### Technical description:
 
