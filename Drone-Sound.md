@@ -6,9 +6,12 @@ _On October 3, 1942 the A-4 was first launched from Peenemunde. Breaking the sou
 
 During WW2, the v2 rocket broke both the sound barrier and earth's gravity constraints in order to strike enemies abroad. The sound it produced while crossing the sky became part of its terrorizing power.
 nowadays, the absence of sound is even more alarming: A drone strike won't be noticed and who triggers it will be displaced by the computer screen thousands of kilometers away. 
-Based on remote controlled flying devices we will explore different ways of generating sound we propose a performance around the frightening omnipresent power of 'drones'.
+
+We propose a performance around the frightening omnipresent power of 'drones'.
+Based on remote controlled flying devices we will explore different ways of generating sound. 
 
 
+--------------
 Our flying devices will generate sound by themselves and first revisions won't require any sound amplification process thus developing sound while gliding becomes one of the main interests to accomplish.
 Although at some point later on the process sound could be captured and sent in real-time to a sound system on the ground.
 
@@ -16,6 +19,8 @@ The planes will broadcast video from an embedded camera with it the public/assis
 
 -> i think we have to be more clear on what we propose to present there. anyway, this is just a proposition, things will change before the public presentation.
 so, i propose to be more self confident :
+-----------------
+
 Our flying devices will generate sound by themselves: developing sound while gliding becomes one of the main interests to accomplish.
 
 The planes will broadcast sound and video from an embedded microphone and camera. Thanks to this, the public/assistants/participants will be able to see through the 'drone' eyes. It would allow them to be seen in real-time looking up at the drone.
