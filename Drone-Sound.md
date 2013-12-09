@@ -28,8 +28,9 @@ Different approach of making sound experimenting with:
 
 In this line of sound search it might be necessary to control the speed of the motors based on a programmed routine that can be repeated by the different planes in the air. For such automation we might be using an on-board micro controller (ardupilot compatible http://www.diydrones.com/notes/ArduPilot).
 
-In order to realize this project we need a 1 week residency to work on the sound of the planes.
--> is it better to ask for 2 week i order to have 1 week (?)
+In order to finalize this project we need a 10 days residency to work on the sound of the planes.
+
+Expected result is a 10-15min of noise/drone musical performance.
 
 ## Drones Tracking People. People Tracking Drones
 
