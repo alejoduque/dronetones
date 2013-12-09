@@ -22,7 +22,7 @@ __Thomas Pynchon, Gravity's Rainbow__
 2 custom made radio flying devices: electric powered plane or thermal wind glider with wingspan of about 1 or 2 meter will be controlled from the ground via radio signals.
 
 Different approach of making sound experimenting with:
-- The use of different materials attached to the wings, paper, tape, acyclic.
+- The use of different materials attached to the wings : paper, tape, acyclic.
 - Using flutes. Tubes of variable size attached to the wing and fuselage of the planes letting the wind pass through holes that, depending on wind speed, will produce sound. Control gates can be added so one can close at will, via remote control, the aperture/pitch of the sound.
 - A third approach relates directly to the electric motor revolutions. Their high-speed vibration being itself a way to pace rhythm, attack, pace. Being in this case a sound related to the propeller qualities.
 
@@ -33,9 +33,9 @@ In order to realize this project we need a 1 week residency to work on the sound
 
 ## Drones Tracking People. People Tracking Drones
 
-A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of terror.
+A poetic statement enacted at the open fields against 'drone' and surveillance technologies as they are being enforced today by so many governments of fear and terror.
 
-We resist drone/UAV technologies of war and all the surveillance and control enforced through them by governments of fear and terror. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones". During the performance, the public is asked to bring down a radio controlled plane with whatever they can find at hand (water bottles, shoes, toilette paper, rocks, water, sticks were seen flying). 
+We resist drone/UAV technologies of war and all the surveillance and control. To keep the spirit of being able to fight against the army, we better train ourselves on the techniques of "Bringing Down Drones With Stones". During the performance, the public is asked to bring down a radio controlled plane with whatever they can find at hand (water bottles, shoes, toilette paper, rocks, water, sticks were seen flying). 
 
 A participatory performance to acknowledge those who have died -so far- under the coward "drone wars". 
 Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
