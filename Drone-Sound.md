@@ -10,7 +10,7 @@ rocket ever to go into the fringes of space**
 During **WW2**, the **v2** rocket broke both the sound barrier and earth's gravity constraints in order to strike enemies abroad. The sound it produced while crossing the sky became part of its terrorizing power.
 nowadays, the absence of sound is even more alarming: A drone strike won't be noticed and who triggers it will be displaced by the computer screen thousands of kilometers away. 
 
-Based on remote controlled flying devices we will explore different ways of generating sound. We propose a performance around the frightening omnipresent power of 'drones'. Our flying devices will generate sound by themselves while gliding.
+We propose a performance around the frightening omnipresent power of 'drones'. Based on remote controlled flying devices we will explore different ways of generating sound. Our flying devices will generate sound by themselves while gliding.
 
 The planes will broadcast sound and video from an embedded microphone and camera. Thanks to this, the public/assistants/participants will be able to hear and see through the 'drone' eyes. It would allow them to be seen in real-time looking up at the drone.
 
