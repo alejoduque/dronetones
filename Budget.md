@@ -11,7 +11,9 @@ In the case of electrical powered devices it will be good to have spare motors, 
 If we decide to automate any of the devices (sound wise) we should list here the type of controller.
 
 -micro-controllers
+
 -sensors
+
 -LED lights
 
 ### Batteries:
