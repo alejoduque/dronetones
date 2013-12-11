@@ -16,9 +16,19 @@ The planes will broadcast sound and video from an embedded microphone and camera
 
 ##### "But it is a curve each of them feels, unmistakably. It is the parabola. They must have guessed, once or twice -- guessed and refused to believe -- that everything, always, collectively, had been moving toward that purified shape latent in the sky, that shape of no surprise, no second chance, no return. Yet they do move forever under it, reserved for its own black-and-white bad news certainly as if it were the rainbow, and they its children...."  Thomas Pynchon, Gravity's Rainbow
 
+### To consider for the Desert Numerique 05:
+
+- The festival will be shorter.
+- There's interest on having a round table or discussion about the political aspect.
+- Define location of the performance and consider bringing everyone to this location.
+- Having 220V in the field can be hard so we should relay on battery powered operations.
+- Performance can be on saturday or sunday. (At dusk?)
+- We have to define a [[budget]].
+
+
 ### Technical description:
 
-2 custom made radio flying devices: electric powered plane or thermal wind glider with wingspan of about 1 or 2 meter will be controlled from the ground via radio signals.
+2 or more custom made radio controlled flying devices: electric powered plane or thermal wind glider with wingspan of about 1 or 2 meter will be controlled from the ground via radio signals.
 
 Different approach of making sound experimenting with:
 - The use of different materials attached to the wings : paper, tape, acyclic.
