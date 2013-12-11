@@ -1,3 +1,5 @@
+![Cigne](https://raw.github.com/alejoduque/dronetones/master/imgs/cigne_bit.jpg)
+
 ### Planes:
 
 We will build them and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. 
@@ -19,11 +21,6 @@ http://hobbyking.com/hobbyking/store/__86__85__Batteries_Accessories-Li_Poly_All
 
 ### Adapter/Cables:
 
-XT-60
-Futaba
-JST
-T-Connector
-Micro T-Connector
-HXT-4mm
+XT-60, Futaba, JST, T-Connector, Micro T-Connector, HXT-4mm
 
-### Transport  (as in travel expenses):
+### Transport  (as in travel expenses & usually covered):
