@@ -18,6 +18,7 @@ The planes will broadcast sound and video from an embedded microphone and camera
 
 ### To consider for the Desert Numerique 05:
 
+![possible locations](https://raw.github.com/alejoduque/dronetones/master/imgs/possible_locations_opt.png)
 - The festival will be shorter.
 - There's interest on having a round table or discussion about the political aspect.
 - Define location of the performance and consider bringing everyone to this location.
