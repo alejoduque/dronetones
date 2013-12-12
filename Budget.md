@@ -1,13 +1,11 @@
 ### Planes:
 
-We will build them and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. 
-
-In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
+We will build them and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
 
 ### building planes (example)
-![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_bit.jpg)
+![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 #### 1.1m plane can be build using : 
-- foam core ( x1/2)
+- foam core (x1/2)
 - 1x100x1000mm (x2) balsa wood
 - 2x100x1000mm balsa wood
 - 0.5x3x1000mm carbon bar
@@ -17,7 +15,7 @@ In the case of electrical powered devices it will be good to have spare motors, 
 - misc material
 - glue
 
-#### electronics of this plane (example)
+#### Electronics for this kind of plane could be:
 http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__32458__D2826_10_1400kv_Brushless_Motor_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__32437__Hobbyking_SS_Series_35_40A_ESC_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html
@@ -36,7 +34,7 @@ http://www.hobbyking.com/hobbyking/store/__34523__Wing_Tape_45mic_x_45_mm_x_100m
 
 the cost of 3 planes (materials) + electronic + batteries should be around 250€
 
-### Guiding systems:
+### Guiding Systems:
 
 If we decide to automate any of the devices (sound wise) we should list here the type of controller.
 
