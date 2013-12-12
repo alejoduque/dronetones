@@ -27,6 +27,7 @@ http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Se
 http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html or 
 http://www.hobbyking.com/hobbyking/store/__41739__TGS_Sport_7x6E_Precision_propeller_EU_warehouse_.html
+
 http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39918
 
 http://www.hobbyking.com/hobbyking/store/__42066__Nylon_XT90_Connectors_Male_5pcs_bag_EU_warehouse_.html
