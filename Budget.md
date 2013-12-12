@@ -11,9 +11,9 @@ In the case of electrical powered devices it will be good to have spare motors, 
 #### 1.1m plane can be build using : 
 - foam core ( x1/2)
 - 1x100x1000mm (x2) balsa wood
-- 2x100x1000mm (x1/2) balsa wood
+- 2x100x1000mm balsa wood
 - 0.5x3x1000mm carbon bar
-- 5x5x1000mm samba wood
+- 3x10x1000mm samba wood
 - 1mm CAP (x2)
 - kraft paper
 - misc material
