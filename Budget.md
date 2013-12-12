@@ -14,7 +14,7 @@ In the case of electrical powered devices it will be good to have spare motors, 
 - 2x100x1000mm balsa wood
 - 0.5x3x1000mm carbon bar
 - 3x10x1000mm samba wood
-- 1mm CAP (x2)
+- 1mm CAP + tube (x2)
 - kraft paper
 - misc material
 - glue
