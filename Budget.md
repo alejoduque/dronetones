@@ -20,7 +20,7 @@ In the case of electrical powered devices it will be good to have spare motors, 
 - glue
 
 #### electronics of this plane (example)
-http://www.hobbyking.com/hobbyking/store/__32458__D2826_10_1400kv_Brushless_Motor_EU_warehouse_.html
+http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__32458__D2826_10_1400kv_Brushless_Motor_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__32437__Hobbyking_SS_Series_35_40A_ESC_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
