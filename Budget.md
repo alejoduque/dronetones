@@ -16,7 +16,9 @@ In the case of electrical powered devices it will be good to have spare motors, 
 - kraft paper
 - misc material
 - glue
+
 #### electronics of this plane (example)
+
 http://www.hobbyking.com/hobbyking/store/__39307__FC_28_12_Brushless_Outrunner_1534kv_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html
 http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html
