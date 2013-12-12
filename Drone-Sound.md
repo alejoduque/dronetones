@@ -51,7 +51,7 @@ We resist drone/UAV technologies of war and all the surveillance and control. To
 A participatory performance to acknowledge those who have died -so far- under the coward "drone wars". 
 Estimates of those killed in strikes between 2004 and early 2013 range from around 2000 to around 3000 deaths in Pakistan.
 
-Presented at Desert Numérique in France, on July 2013. Next time We will capture images taken from the perspective of a flying device and transmit them live to a local screen.
+Presented at Desert Numérique in France, on July 2013. For [[Desert Numérique 05 (2014)]] we will capture and transmit real-time images from the perspective of a flying (FPV) device and project them live to a local screen.
 
 ### Previous reference:
 ![BDDWS](http://coop.re/?BDDWS.head.138652948219)
