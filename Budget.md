@@ -7,7 +7,7 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
 
 ### building planes (example)
-
+![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics.jpg)
 #### 1.1m plane can be build using : 
 - foam core ( x1/2)
 - 1x100x1000mm (x2) balsa wood
