@@ -20,7 +20,7 @@
 - pro saver
 - buzzers ----------------- x3 = 7.23€
 - 3 motors
-- 3 ESC
+- 3 ESC ----------------- 25-30A ESC (x3) EU18.83
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
 - 14 micro servos
 - Rubber bands
