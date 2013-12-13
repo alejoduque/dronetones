@@ -33,7 +33,7 @@
 
 Depending on the kind of plane we should get some new batteries, also for powering the FPV system:
 
--1800mA battery. OK for 10min performance. (x3)
+-1800mA battery -------------- ZIPPY Flightmax 1800mAh 3S1P 20C x3  EU29.50
 
 -1500mA x ?
 
@@ -74,7 +74,7 @@ One can have a plane circling at least, but yes we need another pair of eyes.. l
 - http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html 
-- http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html
