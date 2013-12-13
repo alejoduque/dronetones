@@ -31,15 +31,17 @@
 -2200mA x 2
 - shipping charges
 
-### Adapter/Cables:
 
-It will be handy to have a couple of connectors and cables at hand to patch things if required. This one for example came in very handy last year but got lost unfortunately. Buying the connectors is also possible:
-
-http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
 
 ### Other things to consider + Things we bring:
 
 We will build 3 planes and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
+
+#### Adapter/Cables:
+
+It will be handy to have a couple of connectors and cables at hand to patch things if required. This one for example came in very handy last year but got lost unfortunately. Buying the connectors is also possible:
+
+http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
 
 #### Guiding Systems:
 
