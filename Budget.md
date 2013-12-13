@@ -1,9 +1,7 @@
 ### Schematics for a possible plane design:
 ![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 
-**The cost of 3 planes (materials) + electronic + batteries + spares should be around 300€ total**
-
-**With a ~1.1m widespan to be built using:** 
+**The cost of 3 planes with a ~1.1m widespan materials+electronic+batteries+spares should be around 300€ total**
 
 ## Things to buy:
 
