@@ -7,8 +7,8 @@
 #### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 
 - Foam core (x1/2)
-- kraft paper
 - glue
+- kraft paper
 
 - 1x100x1000mm (x2) balsa wood
 - 2x100x1000mm balsa wood
