@@ -18,7 +18,6 @@
 - propeller 11x6 
 - pro saver
 - Rubber bands
-
 - buzzers ----------------- x3 = 7.23€
 - 3 motors
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
