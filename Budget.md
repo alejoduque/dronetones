@@ -28,7 +28,8 @@
 
 ##### hobbyking
 
-- 3 motors ----------- NTM Prop Drive 28-26 1350KV / 302W EU38.37
+- 3 diferents motors ----------- [link](http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html)
+- 3 motor accecories [link](http://www.hobbyking.com/hobbyking/store/__31698__NTM_Prop_Drive_28_Series_Accessory_Pack_EU_warehouse_.html)
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
 - 6 micro servos for ailerons:  -------- Turnigy XGD-10HM Digital Micro Servo (x6)  EU21.76
@@ -41,10 +42,10 @@
 - buzzers ----------------- x4 = 9.64€
 - shipping charges
 
-- http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__31698__NTM_Prop_Drive_28_Series_Accessory_Pack_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html~~
+- ~~http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html~~
+- ~~http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html~~
+- ~~http://www.hobbyking.com/hobbyking/store/__31698__NTM_Prop_Drive_28_Series_Accessory_Pack_EU_warehouse_.html~~
 - ~~http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html~~ 
 - ~~http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
