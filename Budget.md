@@ -37,13 +37,14 @@ the cost of 3 planes (materials) + electronic + batteries should be around 250â‚
 
 ### Guiding Systems:
 
-If we decide to automate any of the devices (sound wise) we should list here the type of controller.
+Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
 
--micro-controllers
+(http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
 
--sensors
+Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
+a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight.
 
--LED lights
+-LED lights for flying at dusk.
 
 ### Batteries:
 
@@ -52,6 +53,7 @@ http://hobbyking.com/hobbyking/store/__86__85__Batteries_Accessories-Li_Poly_All
 
 ### Adapter/Cables:
 
+It will be handy to have a couple of connectors and cables at hand to patch things if required.
 XT-60, Futaba, JST, T-Connector, Micro T-Connector, HXT-4mm
 
 ### Transport  (as in travel expenses & usually covered):
