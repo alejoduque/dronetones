@@ -18,7 +18,7 @@
 - 10x6 propeller  ----------------- 1.5€ (each)
 - 11x6 propeller
 - pro saver
-
+- buzzers ----------------- x3 = 7.23€
 - 3 motors
 - 3 ESC
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
