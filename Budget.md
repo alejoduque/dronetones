@@ -26,18 +26,10 @@
 - Rubber bands
 - Adapter Cables
 - misc item
-
-- shipping charges 
-
-### Batteries:
-
-Depending on the kind of plane we should get some new batteries, also for powering the FPV system:
-
 -1800mA battery -------------- ZIPPY Flightmax 1800mAh 3S1P 20C x3  EU29.50
-
 -1500mA x ?
-
 -2200mA x 2
+- shipping charges
 
 ### Adapter/Cables:
 
@@ -76,12 +68,12 @@ One can have a plane circling at least, but yes we need another pair of eyes.. l
 - http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html 
 - ~~http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html~~ or ~~http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html~~
+- ~~http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__46532__APC_Style_Propeller_8x6_2_pc_EU_Warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36248__APC_style_propeller_8x6_E_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36246__APC_style_propeller_8x4_E_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__39918__Hobby_King_Discovery_Buzzer_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__39918__Hobby_King_Discovery_Buzzer_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__36270__Nylon_XT60_Connectors_Male_Female_5_pairs_GENUINE_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__43103__XT60_Harness_for_2_Packs_in_Parallel_1pc_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__46504__10CM_Servo_Lead_Futaba_32AWG_Ultra_Light_10pcs_set_EU_Warehouse_.html
