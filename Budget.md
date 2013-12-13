@@ -25,7 +25,7 @@
 
 ##### hobbyking
 - buzzers ----------------- x3 = 7.23€
-- 3 motors
+- 3 motors ----------- NTM Prop Drive 28-26 1350KV / 302W EU38.37
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
 - 6 micro servos for ailerons:  -------- Turnigy XGD-10HM Digital Micro Servo (x6)  EU21.76
