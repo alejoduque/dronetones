@@ -27,7 +27,7 @@
 - shipping charges
 
 ##### hobbyking
-- buzzers ----------------- x3 = 7.23€
+
 - 3 motors ----------- NTM Prop Drive 28-26 1350KV / 302W EU38.37
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
@@ -38,39 +38,9 @@
 - 1800mA battery -------------- ZIPPY Flightmax 1800mAh 3S1P 20C x3  EU29.50
 - 1500mA x ?
 - 2200mA x 2
+- buzzers ----------------- x4 = 9.64€
 - shipping charges
 
-
-
-### Other things to consider + Things we bring:
-
-We will build 3 planes and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
-
-It will be handy to have a couple of connectors and cables at hand to patch things if required. This one for example came in very handy last year but got lost unfortunately. Buying the connectors is also possible:
-
-http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
-
-#### Guiding Systems:
-
-Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
-
-![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
-
-Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
-a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia). Example: https://store.3drobotics.com/products/airspeed-kit-with-mpxv7002dp
-
-**Can it be all automated (including landing), so that 3 plane can be in the sky?**
-
-One can have a plane circling at least, but yes we need another pair of eyes.. landing might be possible since the gps is supposed to be quite accurate, it has a compass/magnetometer to compute corrections. Is also question of learning the Mission Planner software, there should be a way to log and repeat a certain flight pattern. Wind direction changes? uhmm.. that's another story.
-
-
--This cable will provide battery readings on the OSD display (useful for FPV):
-[https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
-
--LED lights for flying at dusk.
-
-
-#### Electronics for this kind of plane could be:
 - http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html
@@ -99,6 +69,34 @@ One can have a plane circling at least, but yes we need another pair of eyes.. l
 - http://www.hobbyking.com/hobbyking/store/__36274__Male_JST_battery_pigtail_10cm_length_10pcs_bag_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36275__Female_JST_battery_pigtail_12cm_length_10pcs_bag_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__31474__JST_XH_3S_Wire_Extension_20cm_10pcs_bag_EU_warehouse_.html
+- http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
+
+##### 3drobotics
+-This cable will provide battery readings on the OSD display (useful for FPV):
+[https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
+
+-LED lights for flying at dusk.
+
+
+
+### Other things to consider + Things we bring:
+
+We will build 3 planes and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
+
+It will be handy to have a couple of connectors and cables at hand to patch things if required. 
+
+#### Guiding Systems:
+
+Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
+
+![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
+
+Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
+a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia). Example: https://store.3drobotics.com/products/airspeed-kit-with-mpxv7002dp
+
+**Can it be all automated (including landing), so that 3 plane can be in the sky?**
+
+One can have a plane circling at least, but yes we need another pair of eyes.. landing might be possible since the gps is supposed to be quite accurate, it has a compass/magnetometer to compute corrections. Is also question of learning the Mission Planner software, there should be a way to log and repeat a certain flight pattern. Wind direction changes? uhmm.. that's another story.
 
 
 ### Transport  (as in travel expenses & usually covered):
