@@ -53,10 +53,7 @@ http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_
 
 ### Other things to consider:
 
-Only one cable is missing to have battery reading on the OSD display (useful for FPV):
-[https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
-
-### Guiding Systems:
+#### Guiding Systems:
 
 Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
 
@@ -69,8 +66,11 @@ a VSI (vertical speed indicator) to ascertain that level flight is being maintai
 
 One can have a plane circling at least, but yes we need another pair of eyes.. landing might be possible since the gps is supposed to be quite accurate, it has a compass/magnetometer to compute corrections. Is also question of learning the Mission Planner software, there should be a way to log and repeat a certain flight pattern. Wind direction changes? uhmm.. that's another story.
 
--LED lights for flying at dusk.
 
+-This cable will provide battery readings on the OSD display (useful for FPV):
+[https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
+
+-LED lights for flying at dusk.
 
 
 ### Things we bring:
