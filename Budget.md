@@ -2,7 +2,8 @@
 ![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 
 **The cost of 3 planes (materials) + electronic + batteries + spares should be around 300€ total**
-With a ~1.1m widespan to be built using : 
+
+**With a ~1.1m widespan to be built using:** 
 
 - foam core (x1/2)
 - 1x100x1000mm (x2) balsa wood
