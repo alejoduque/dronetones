@@ -23,7 +23,7 @@
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
 - 6 micro servos for ailerons:  -------- Turnigy XGD-10HM Digital Micro Servo (x6)  EU21.76
-- 8 micro servos for rudder/elev: 
+- 8 micro servos for rudder/elev: ------ HK-15339 Micro Analog (x8)  EU16.82
 - Rubber bands
 - Adapter Cables
 - misc item
@@ -71,6 +71,7 @@ One can have a plane circling at least, but yes we need another pair of eyes.. l
 - ~~http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html~~ 
 - ~~http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__36435__HK_15339_Micro_Analog_Servo_7_5g_0_09sec_0_8kg_EU_warehouse_.html~~
 - ~~http://www.hobbyking.com/hobbyking/store/__41757__Turnigy_XGD_10HM_Digital_Micro_Servo_2_2kg_10g_0_12_EU_warehouse_.html~~
 - ~~http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html~~ or ~~http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html~~
 - ~~http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html~~
