@@ -47,9 +47,15 @@
 -This cable will provide battery readings on the OSD display (useful for FPV):
 [https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
 
-### Other things to consider + Things we bring:
+### Other things to consider 
 - LED lights for flying at dusk.
+
+### Things we bring:
 - Rubber bands
+- 2 transmitter box to control the models
+- 2 battery charger
+- 2 cameras / micro
+- 2 audio / video wireless transmission system
 
 #### Guiding Systems:
 Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
