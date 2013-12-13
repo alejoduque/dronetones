@@ -7,7 +7,7 @@
 
 #### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 
-- foam core (x1/2)
+- Foam core (x1/2)
 - 1x100x1000mm (x2) balsa wood
 - 2x100x1000mm balsa wood
 - 0.5x3x1000mm carbon bar
@@ -23,10 +23,9 @@
 - 3 different motors
 - 3 ESC
 - 2 receivers for tgx9
-- 6 battery packs
 - 14 micro servos
-- lot's of rubber
-- connectors
+- Rubber bands
+- Adapter Cables
 - misc item
 
 
