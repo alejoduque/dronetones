@@ -21,6 +21,7 @@
 - propeller 11x6 
 - pro saver
 - Rubber bands
+- shipping charges
 
 ##### hobbyking
 - buzzers ----------------- x3 = 7.23€
