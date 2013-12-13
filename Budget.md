@@ -65,7 +65,11 @@ Is possible to automate any of the flying devices using something like the ArduP
 ![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
 
 Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
-a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia)
+a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia).
+
+**Can it be all automated (including landing), so that 3 plane can be in the sky?**
+
+One can have a plane circling at least, but yes we need another pair of eyes.. landing might be possible since the gps is supposed to be quite accurate, it has a compass/magnetometer to compute corrections. Is also question of learning the Mission Planner software, there should be a way to log and repeat a certain flight pattern. Wind direction changes? uhmm.. that's another story.
 
 -LED lights for flying at dusk.
 
@@ -77,6 +81,6 @@ http://hobbyking.com/hobbyking/store/__86__85__Batteries_Accessories-Li_Poly_All
 ### Adapter/Cables:
 
 It will be handy to have a couple of connectors and cables at hand to patch things if required.
-XT-60, Futaba, JST, T-Connector, Micro T-Connector, HXT-4mm
+XT-60, Futaba, JST, T-Connector, Micro T-Connector, HXT-4mm for repairing things quickly.
 
 ### Transport  (as in travel expenses & usually covered):
