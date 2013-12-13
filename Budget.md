@@ -6,13 +6,13 @@
 
 #### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 
-##### various
+##### various (20€)
 - Foam core (x2)
 - kraft paper
 - glue
-- LED lights for flying at dusk.
 
-##### euromodel / paris
+
+##### euromodel / paris (25€)
 - balsa wood 1x100x1000mm (x6) 
 - balsa wood 2x100x1000mm (x3)
 - carbon bar  0.5x3x1000mm (x3)
@@ -20,14 +20,14 @@
 - piano sting 1mm (x6)
 - tube (x6)
 
-##### ???
+##### ??? 25€
 - propeller 10x6 ----------------- 3€ (each)
 - propeller 11x6 ----------------- 3€ (each)
 - pro saver
 - Rubber bands
 - shipping charges
 
-##### hobbyking (TVA not included)
+##### hobbyking (313€)
 
 - 3 diferents motors ----------- [link](http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html) 38.09€
 - 3 motor accesories [link](http://www.hobbyking.com/hobbyking/store/__31698__NTM_Prop_Drive_28_Series_Accessory_Pack_EU_warehouse_.html) 4.89€
@@ -44,33 +44,17 @@
 - buzzers ----------------- [link](http://www.hobbyking.com/hobbyking/store/__39918__Hobby_King_Discovery_Buzzer_EU_warehouse_.html) x4 = 9.64€
 - controled swith 
 2x [link](http://www.hobbyking.com/hobbyking/store/__49606__Turnigy_Receiver_Controlled_Switch_EU_Warehouse_.html) 11.16€
-- 20.8% TVA : 
+- 20.8% TVA : 49.56
 - shipping charges : 25€
 
-
-
-
-
-
-
-
-
-##### 3drobotics
+##### 3drobotics (30€)
 -This cable will provide battery readings on the OSD display (useful for FPV):
 [https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
 
-
-
-
-
 ### Other things to consider + Things we bring:
-
-We will build 3 planes and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
-
-It will be handy to have a couple of connectors and cables at hand to patch things if required. 
+- LED lights for flying at dusk.
 
 #### Guiding Systems:
-
 Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
 
 ![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
