@@ -17,7 +17,7 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - glue
 
 #### Electronics for this kind of plane could be:
- - http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__32458__D2826_10_1400kv_Brushless_Motor_EU_warehouse_.html
+- http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__32458__D2826_10_1400kv_Brushless_Motor_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__32437__Hobbyking_SS_Series_35_40A_ESC_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
@@ -32,7 +32,6 @@ http://www.hobbyking.com/hobbyking/store/__41739__TGS_Sport_7x6E_Precision_prope
 - http://www.hobbyking.com/hobbyking/store/__34524__Wing_Tape_45mic_x_45_mm_x_100m_Wide_Yellow_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__41772__Wing_Tape_45mic_x_45_mm_x_100m_Wide_Blue_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__34523__Wing_Tape_45mic_x_45_mm_x_100m_Wide_Red_EU_warehouse_.html
-
 - http://www.hobbyking.com/hobbyking/store/__49606__Turnigy_Receiver_Controlled_Switch_EU_Warehouse_.html
 
 the cost of 3 planes (materials) + electronic + batteries should be around 250€
