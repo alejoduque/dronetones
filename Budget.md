@@ -44,12 +44,12 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 the cost of 3 planes (materials) + electronic + batteries should be around 250€
 ### things to buy:
 - materials for building 3 identical planes (wood / tape / paper / glue / likage stopper)
-- 3 motors (different types?)
+- 3 different motors
 - 3 ESC
 - 2 receivers for tgx9
 - 6 battery packs
 - 14 micro servos
-- 2 set of 3 propeller (different types?
+- differents propeller
 - prop saver + lot's of rubber
 - various connectors
 - misc item
