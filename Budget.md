@@ -41,7 +41,8 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - http://www.hobbyking.com/hobbyking/store/__36275__Female_JST_battery_pigtail_12cm_length_10pcs_bag_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__31474__JST_XH_3S_Wire_Extension_20cm_10pcs_bag_EU_warehouse_.html
 
-the cost of 3 planes (materials) + electronic + batteries should be around 250€
+the cost of 3 planes (materials) + electronic + batteries + spares should be around 300€
+
 ### things to buy:
 - materials for building 3 identical planes (wood / tape / paper / glue / likage stopper)
 - 3 different motors
