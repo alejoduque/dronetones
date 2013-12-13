@@ -54,6 +54,9 @@ useful for FPV. [See here](https://store.3drobotics.com/products/apm-power-modul
 - 2 cameras / micro
 - 2 audio / video wireless transmission system
 - LED lights for flying at dusk
+- Transmitters
+- Older planes
+- Older batteries
 
 #### Guiding Systems:
 Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
