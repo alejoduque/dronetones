@@ -1,13 +1,9 @@
-### Planes:
-
-We will build them and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
-
 ### Schematics for a possible plane design:
 ![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 
-#### For a 1.1m widespan plane built using : 
-
 **The cost of 3 planes (materials) + electronic + batteries + spares should be around 300€**
+
+~1.1m widespan plane built using : 
 
 - foam core (x1/2)
 - 1x100x1000mm (x2) balsa wood
@@ -54,6 +50,8 @@ It will be handy to have a couple of connectors and cables at hand to patch thin
 http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
 
 ### Other things to consider + Things we bring:
+
+We will build 3 planes and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
 
 #### Guiding Systems:
 
