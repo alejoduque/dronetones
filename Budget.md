@@ -27,6 +27,9 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__5512__JXF_10x6_254_x_152_5mm_Poly_Composite_propeller.html
 - http://www.hobbyking.com/hobbyking/store/__5518__JXF_11x6_279_x_152_5mm_Poly_Composite_propeller.html
+- http://www.hobbyking.com/hobbyking/store/__9843__SF_E_Prop_8x6_203x152_5mm_w_Adapters_Black_5pcs_bag_.html
+- http://www.hobbyking.com/hobbyking/store/__7946___TGS_Sport_8x6E_Precision_propeller.html
+- http://www.hobbyking.com/hobbyking/store/__7944___TGS_Sport_8x4E_Precision_propeller.html
 - http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=39918
 - http://www.hobbyking.com/hobbyking/store/__42109__Nylon_XT90_Connectors_Male_Female_5_pairs_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__46504__10CM_Servo_Lead_Futaba_32AWG_Ultra_Light_10pcs_set_EU_Warehouse_.html
