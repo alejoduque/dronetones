@@ -1,7 +1,6 @@
-### Schematics for a possible plane design:
 ![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 
-**With a ~1.1m widespan the cost should be around 300€ total**
+**Schematics for a possible plane design with circa ~1.1m widespan. Cost should be around 300€ total**
 
 ## Things to buy:
 
@@ -37,8 +36,6 @@
 ### Other things to consider + Things we bring:
 
 We will build 3 planes and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
-
-#### Adapter/Cables:
 
 It will be handy to have a couple of connectors and cables at hand to patch things if required. This one for example came in very handy last year but got lost unfortunately. Buying the connectors is also possible:
 
