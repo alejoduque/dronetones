@@ -7,23 +7,25 @@
 #### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 
 - Foam core (x1/2)
+- kraft paper
+- glue
+
 - 1x100x1000mm (x2) balsa wood
 - 2x100x1000mm balsa wood
 - 0.5x3x1000mm carbon bar
 - 3x10x1000mm samba wood
 - 1mm CAP + tube (x2)
-- kraft paper
-- glue
 - 10x6 propeller  ----------------- 1.5€ (each)
 - 11x6 propeller
 - pro saver
+- Rubber bands
+
 - buzzers ----------------- x3 = 7.23€
 - 3 motors
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
 - 6 micro servos for ailerons:  -------- Turnigy XGD-10HM Digital Micro Servo (x6)  EU21.76
 - 8 micro servos for rudder/elev: ------ HK-15339 Micro Analog (x8)  EU16.82
-- Rubber bands
 - Adapter Cables
 - misc item
 -1800mA battery -------------- ZIPPY Flightmax 1800mAh 3S1P 20C x3  EU29.50
