@@ -32,7 +32,7 @@
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
 - 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
 - 6 micro servos for ailerons:  -------- Turnigy XGD-10HM Digital Micro Servo (x6)  EU21.76
-- 8 micro servos for rudder/elev: ------ HK-15339 Micro Analog (x8)  EU16.82
+- 8 micro servos for rudder/elev: ------ HK-15339 Micro Analog (x8)  EU16.82 [link](http://www.hobbyking.com/hobbyking/store/__36435__HK_15339_Micro_Analog_Servo_7_5g_0_09sec_0_8kg_EU_warehouse_.html)
 - Adapter Cables
 - misc item
 - 1800mA battery -------------- ZIPPY Flightmax 1800mAh 3S1P 20C x3  EU29.50
