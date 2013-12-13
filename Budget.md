@@ -27,9 +27,9 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__5512__JXF_10x6_254_x_152_5mm_Poly_Composite_propeller.html
 - http://www.hobbyking.com/hobbyking/store/__5518__JXF_11x6_279_x_152_5mm_Poly_Composite_propeller.html
-- http://www.hobbyking.com/hobbyking/store/__9843__SF_E_Prop_8x6_203x152_5mm_w_Adapters_Black_5pcs_bag_.html
-- http://www.hobbyking.com/hobbyking/store/__7946___TGS_Sport_8x6E_Precision_propeller.html
-- http://www.hobbyking.com/hobbyking/store/__7944___TGS_Sport_8x4E_Precision_propeller.html
+- http://www.hobbyking.com/hobbyking/store/__46532__APC_Style_Propeller_8x6_2_pc_EU_Warehouse_.html
+- http://www.hobbyking.com/hobbyking/store/__36248__APC_style_propeller_8x6_E_EU_warehouse_.html
+- http://www.hobbyking.com/hobbyking/store/__36246__APC_style_propeller_8x4_E_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__39918__Hobby_King_Discovery_Buzzer_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36270__Nylon_XT60_Connectors_Male_Female_5_pairs_GENUINE_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__43103__XT60_Harness_for_2_Packs_in_Parallel_1pc_EU_warehouse_.html
