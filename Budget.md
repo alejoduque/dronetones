@@ -7,16 +7,17 @@
 #### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 
 ##### various
-- Foam core (x1/2)
+- Foam core (x2)
 - kraft paper
 - glue
 
 ##### euromodel / paris
-- balsa wood 1x100x1000mm (x2) 
-- balsa wood 2x100x1000mm 
-- carbon bar  0.5x3x1000mm
-- samba wood 3x10x1000mm
-- piano sting 1mm (x2) + tube (x2)
+- balsa wood 1x100x1000mm (x6) 
+- balsa wood 2x100x1000mm (x3)
+- carbon bar  0.5x3x1000mm (x3)
+- samba wood 3x10x1000mm (x3)
+- piano sting 1mm (x6)
+- tube (x6)
 
 ##### ???
 - propeller 10x6 ----------------- 1.5€ (each)
