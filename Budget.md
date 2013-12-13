@@ -32,7 +32,7 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - http://www.hobbyking.com/hobbyking/store/__7944___TGS_Sport_8x4E_Precision_propeller.html
 - http://www.hobbyking.com/hobbyking/store/__39918__Hobby_King_Discovery_Buzzer_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36270__Nylon_XT60_Connectors_Male_Female_5_pairs_GENUINE_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__23132__XT60_Harness_for_2_Packs_in_Parallel_1pc_.html
+- http://www.hobbyking.com/hobbyking/store/__43103__XT60_Harness_for_2_Packs_in_Parallel_1pc_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__46504__10CM_Servo_Lead_Futaba_32AWG_Ultra_Light_10pcs_set_EU_Warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36262__Linkage_Stopper_M3x2xL11_2mm_10pcs_set_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__34527__Wing_Tape_45mic_x_45_mm_x_100m_Wide_Black_EU_warehouse_.html
