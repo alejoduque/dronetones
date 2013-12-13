@@ -32,7 +32,7 @@
 - 3 diferents motors ----------- [link](http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html) 38.09€
 - 3 motor accesories [link](http://www.hobbyking.com/hobbyking/store/__31698__NTM_Prop_Drive_28_Series_Accessory_Pack_EU_warehouse_.html) 4.89€
 - 3 ESC ----------------- 25-30A ESC [link](http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html) 18.84€
-- 6 1800mA battery -------------- ZIPPY Flightmax 1800mAh 3S1P 20C
+- 6 1800mA battery -------------- ZIPPY Flightmax 2200mAh  [link](http://www.hobbyking.com/hobbyking/store/__35906__ZIPPY_Flightmax_2200mAh_3S1P_40C_EU_warehouse_.html) 69.54€
 - 2 receivers for tgx9 -----------  [link](http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html) or [link](http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html) 16.26€ on backorder
 - 6 micro servos for ailerons:  -------- Turnigy XGD-10HM Digital Micro Servo (x6) [link](http://www.hobbyking.com/hobbyking/store/__41757__Turnigy_XGD_10HM_Digital_Micro_Servo_2_2kg_10g_0_12_EU_warehouse_.html) 21.76€
 - 8 micro servos for rudder/elev: ------ HK-15339 Micro Analog (x8) [link](http://www.hobbyking.com/hobbyking/store/__36435__HK_15339_Micro_Analog_Servo_7_5g_0_09sec_0_8kg_EU_warehouse_.html) 16.82€
