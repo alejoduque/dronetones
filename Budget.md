@@ -12,17 +12,15 @@
 - glue
 
 
-##### euromodel / paris (25€)
+##### euromodel / paris (45€)
 - balsa wood 1x100x1000mm (x6) 
 - balsa wood 2x100x1000mm (x3)
 - carbon bar  0.5x3x1000mm (x3)
 - samba wood 3x10x1000mm (x3)
 - piano sting 1mm (x6)
 - tube (x6)
-
-##### ??? 25€
-- propeller 10x6 ----------------- 3€ (each)
-- propeller 11x6 ----------------- 3€ (each)
+- propeller 10x6 ----------------- 
+- propeller 11x6 ----------------- 
 - pro saver
 
 ##### hobbyking (313€)
