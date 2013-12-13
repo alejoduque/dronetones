@@ -44,8 +44,8 @@
 - shipping charges : 25€
 
 ##### 3drobotics (30€)
--This cable will provide battery readings on the OSD display (useful for FPV):
-[https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
+-[Cable to provide battery voltage readings on the OnScreenDisplay and feed volt power to the Ardupilot 
+useful for FPV](https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors)
 
 ### Other things to consider 
 - LED lights for flying at dusk.
