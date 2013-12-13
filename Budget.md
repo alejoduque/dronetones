@@ -1,6 +1,6 @@
 ![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 
-**Schematics for a possible plane design with circa ~1.1m widespan. Cost should be around 300€ total**
+**Schematics for a possible plane design with circa ~1.1m widespan.**
 
 ## Things to buy:
 
