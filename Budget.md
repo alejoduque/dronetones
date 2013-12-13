@@ -16,9 +16,9 @@
 - balsa wood 2x100x1000mm 
 - carbon bar  0.5x3x1000mm
 - samba wood 3x10x1000mm
-- piano sting (x2) + tube (x2)
+- piano sting 1mm (x2) + tube (x2)
 - propeller 10x6 ----------------- 1.5€ (each)
-- propeller 11x6 
+- propeller 11x6 ----------------- 1.5€ (each)
 - pro saver
 - Rubber bands
 - shipping charges
