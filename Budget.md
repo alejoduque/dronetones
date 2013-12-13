@@ -21,7 +21,7 @@
 
 - 3 motors
 - 3 ESC
-- 2 receivers for tgx9 ----------------  8.13€ (each -- on backorder from EU warehouse)
+- 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
 - 14 micro servos
 - Rubber bands
 - Adapter Cables
