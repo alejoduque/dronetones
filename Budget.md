@@ -24,7 +24,7 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 
 
 
-### things to buy:
+## Things to buy:
 - materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 - 3 different motors
 - 3 ESC
@@ -42,7 +42,9 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 Depending on the kind of plane we should get some new batteries, also for powering the FPV system:
 
 -1800mA battery. OK for 10min performance. (x3)
+
 -1500mA x ?
+
 -2200mA x 2
 
 ### Adapter/Cables:
@@ -51,7 +53,7 @@ It will be handy to have a couple of connectors and cables at hand to patch thin
 
 http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
 
-### Other things to consider:
+### Other things to consider + Things we bring:
 
 #### Guiding Systems:
 
@@ -72,8 +74,6 @@ One can have a plane circling at least, but yes we need another pair of eyes.. l
 
 -LED lights for flying at dusk.
 
-
-### Things we bring:
 
 #### Electronics for this kind of plane could be:
 - http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html
