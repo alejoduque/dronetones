@@ -47,7 +47,7 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 the cost of 3 planes (materials) + electronic + batteries + spares should be around 300€
 
 ### things to buy:
-- materials for building 3 identical planes (wood / tape / paper / glue / likage stopper)
+- materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 - 3 different motors
 - 3 ESC
 - 2 receivers for tgx9
@@ -65,7 +65,7 @@ Is possible to automate any of the flying devices using something like the ArduP
 ![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
 
 Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
-a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia).
+a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia). Example: https://store.3drobotics.com/products/airspeed-kit-with-mpxv7002dp
 
 **Can it be all automated (including landing), so that 3 plane can be in the sky?**
 
@@ -80,7 +80,17 @@ http://hobbyking.com/hobbyking/store/__86__85__Batteries_Accessories-Li_Poly_All
 
 ### Adapter/Cables:
 
-It will be handy to have a couple of connectors and cables at hand to patch things if required.
-XT-60, Futaba, JST, T-Connector, Micro T-Connector, HXT-4mm for repairing things quickly.
+It will be handy to have a couple of connectors and cables at hand to patch things if required. This one for example came in very handy last year but got lost unfortunately. Buying the connectors is also possible:
+
+http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
+
+### Other things to consider:
+
+Only one cable is missing to have battery reading on the OSD display (useful for FPV):
+[https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
+
+### Things we bring:
+
+
 
 ### Transport  (as in travel expenses & usually covered):
