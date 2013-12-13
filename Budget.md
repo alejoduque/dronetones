@@ -41,12 +41,12 @@ http://www.hobbyking.com/hobbyking/store/__41739__TGS_Sport_7x6E_Precision_prope
 the cost of 3 planes (materials) + electronic + batteries should be around 250â‚¬
 ### things to buy:
 - materials for building 3 identical planes (wood / tape / paper / glue / likage stopper)
-- 3 motors
+- 3 motors (different types?)
 - 3 ESC
-- 3 receiver for tgx9 (or 2 + 1 for an other transmitter box? or maybe just 2 if you have a spare one)
-- 3 battery pack (or 4)?
-- 12 micro servos (or maybe we should have 2 spare)?
-- 2 set of 3 propeller
+- 2 receivers for tgx9
+- 6 battery packs
+- 14 micro servos
+- 2 set of 3 propeller (different types?
 - prop saver + lot's of rubber
 - various connectors
 - misc item
@@ -55,10 +55,10 @@ the cost of 3 planes (materials) + electronic + batteries should be around 250â‚
 
 Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
 
-(http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
+![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
 
 Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
-a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight.
+a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia)
 
 -LED lights for flying at dusk.
 
