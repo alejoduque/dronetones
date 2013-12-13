@@ -14,13 +14,12 @@
 - 3x10x1000mm samba wood
 - 1mm CAP + tube (x2)
 - kraft paper
-- misc material
 - glue
-- 10x6 propeller
+- 10x6 propeller  ----------------- 1.5€ (each)
 - 11x6 propeller
 - pro saver
 
-- 3 different motors
+- 3 motors
 - 3 ESC
 - 2 receivers for tgx9
 - 14 micro servos
