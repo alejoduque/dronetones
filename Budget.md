@@ -1,56 +1,49 @@
-### Schematics for a possible plane design:
 ![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 
-**The cost of 3 planes (materials) + electronic + batteries + spares should be around 300€ total**
-
-**With a ~1.1m widespan to be built using:** 
+**Schematics for a possible plane design with circa ~1.1m widespan. Cost should be around 300€ total**
 
 ## Things to buy:
 
 #### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 
-- foam core (x1/2)
-- 1x100x1000mm (x2) balsa wood
-- 2x100x1000mm balsa wood
-- 0.5x3x1000mm carbon bar
-- 3x10x1000mm samba wood
-- 1mm CAP + tube (x2)
+- Foam core (x1/2)
 - kraft paper
-- misc material
 - glue
-- 10x6 propeller
-- 11x6 propeller
+
+
+- balsa wood 1x100x1000mm (x2) 
+- balsa wood 2x100x1000mm 
+- carbon bar  0.5x3x1000mm
+- samba wood 3x10x1000mm
+- piano sting (x2) + tube (x2)
+- propeller 10x6 ----------------- 1.5€ (each)
+- propeller 11x6 
 - pro saver
+- Rubber bands
 
-- 3 different motors
-- 3 ESC
-- 2 receivers for tgx9
-- 6 battery packs
-- 14 micro servos
-- lot's of rubber
-- connectors
+
+- buzzers ----------------- x3 = 7.23€
+- 3 motors
+- 3 ESC ----------------- 25-30A ESC (x3) EU18.83
+- 2 receivers for tgx9 -----------  8.13€(each) on backorder but we have already a couple.
+- 6 micro servos for ailerons:  -------- Turnigy XGD-10HM Digital Micro Servo (x6)  EU21.76
+- 8 micro servos for rudder/elev: ------ HK-15339 Micro Analog (x8)  EU16.82
+- Adapter Cables
 - misc item
+- 1800mA battery -------------- ZIPPY Flightmax 1800mAh 3S1P 20C x3  EU29.50
+- 1500mA x ?
+- 2200mA x 2
+- shipping charges
 
 
-### Batteries:
-
-Depending on the kind of plane we should get some new batteries, also for powering the FPV system:
-
--1800mA battery. OK for 10min performance. (x3)
-
--1500mA x ?
-
--2200mA x 2
-
-### Adapter/Cables:
-
-It will be handy to have a couple of connectors and cables at hand to patch things if required. This one for example came in very handy last year but got lost unfortunately. Buying the connectors is also possible:
-
-http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
 
 ### Other things to consider + Things we bring:
 
 We will build 3 planes and recycle but might have to fix things in St. Nazaire so having tape, glue, depron or similar at hand should be good. In the case of electrical powered devices it will be good to have spare motors, propellers and ESC's for 2 planes.
+
+It will be handy to have a couple of connectors and cables at hand to patch things if required. This one for example came in very handy last year but got lost unfortunately. Buying the connectors is also possible:
+
+http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_EU_warehouse_.html
 
 #### Guiding Systems:
 
@@ -76,15 +69,18 @@ One can have a plane circling at least, but yes we need another pair of eyes.. l
 - http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html 
-- http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html
+- http://www.hobbyking.com/hobbyking/store/__31698__NTM_Prop_Drive_28_Series_Accessory_Pack_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__30035__Hobbyking_SS_Series_25_30A_ESC_EU_warehouse_.html~~ 
+- ~~http://www.hobbyking.com/hobbyking/store/__38100__ZIPPY_Flightmax_1800mAh_3S1P_20C_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__36435__HK_15339_Micro_Analog_Servo_7_5g_0_09sec_0_8kg_EU_warehouse_.html~~
+- ~~http://www.hobbyking.com/hobbyking/store/__41757__Turnigy_XGD_10HM_Digital_Micro_Servo_2_2kg_10g_0_12_EU_warehouse_.html~~
+- ~~http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html~~ or ~~http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html~~
+- ~~http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__46532__APC_Style_Propeller_8x6_2_pc_EU_Warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36248__APC_style_propeller_8x6_E_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36246__APC_style_propeller_8x4_E_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__39918__Hobby_King_Discovery_Buzzer_EU_warehouse_.html
+- ~~http://www.hobbyking.com/hobbyking/store/__39918__Hobby_King_Discovery_Buzzer_EU_warehouse_.html~~
 - http://www.hobbyking.com/hobbyking/store/__36270__Nylon_XT60_Connectors_Male_Female_5_pairs_GENUINE_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__43103__XT60_Harness_for_2_Packs_in_Parallel_1pc_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__46504__10CM_Servo_Lead_Futaba_32AWG_Ultra_Light_10pcs_set_EU_Warehouse_.html
