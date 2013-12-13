@@ -6,6 +6,9 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 ![shematics](https://raw.github.com/alejoduque/dronetones/master/imgs/shematics_BN.jpg)
 
 #### For a 1.1m widespan plane built using : 
+
+**The cost of 3 planes (materials) + electronic + batteries + spares should be around 300€**
+
 - foam core (x1/2)
 - 1x100x1000mm (x2) balsa wood
 - 2x100x1000mm balsa wood
@@ -15,13 +18,11 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - kraft paper
 - misc material
 - glue
-
-
 - 10x6 propeller
 - 11x6 propeller
 - pro saver
 
-the cost of 3 planes (materials) + electronic + batteries + spares should be around 300€
+
 
 ### things to buy:
 - materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
@@ -34,21 +35,6 @@ the cost of 3 planes (materials) + electronic + batteries + spares should be aro
 - prop saver + lot's of rubber
 - various connectors
 - misc item
-
-### Guiding Systems:
-
-Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
-
-![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
-
-Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
-a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia). Example: https://store.3drobotics.com/products/airspeed-kit-with-mpxv7002dp
-
-**Can it be all automated (including landing), so that 3 plane can be in the sky?**
-
-One can have a plane circling at least, but yes we need another pair of eyes.. landing might be possible since the gps is supposed to be quite accurate, it has a compass/magnetometer to compute corrections. Is also question of learning the Mission Planner software, there should be a way to log and repeat a certain flight pattern. Wind direction changes? uhmm.. that's another story.
-
--LED lights for flying at dusk.
 
 
 ### Batteries:
@@ -69,6 +55,23 @@ http://hobbyking.com/hobbyking/store/__31515__XT_60_to_JST_Charging_Adapter_2pc_
 
 Only one cable is missing to have battery reading on the OSD display (useful for FPV):
 [https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors]
+
+### Guiding Systems:
+
+Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
+
+![MissionPlanner](http://wiki.ardupilot-mega.googlecode.com/git/images/ArduPilotMegaImages/missionplanner2.PNG)
+
+Other more simple ways could follow the principles of the glider category F1A or F1H that follow simple patterns and depend on thermal lift. We can certainly add powered systems an even consider 
+a VSI (vertical speed indicator) to ascertain that level flight is being maintained. A simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. (source: wikipedia). Example: https://store.3drobotics.com/products/airspeed-kit-with-mpxv7002dp
+
+**Can it be all automated (including landing), so that 3 plane can be in the sky?**
+
+One can have a plane circling at least, but yes we need another pair of eyes.. landing might be possible since the gps is supposed to be quite accurate, it has a compass/magnetometer to compute corrections. Is also question of learning the Mission Planner software, there should be a way to log and repeat a certain flight pattern. Wind direction changes? uhmm.. that's another story.
+
+-LED lights for flying at dusk.
+
+
 
 ### Things we bring:
 
