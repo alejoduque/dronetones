@@ -10,7 +10,8 @@
 - Foam core (x1/2)
 - kraft paper
 - glue
-##### 
+
+##### ???
 - balsa wood 1x100x1000mm (x2) 
 - balsa wood 2x100x1000mm 
 - carbon bar  0.5x3x1000mm
@@ -20,7 +21,8 @@
 - propeller 11x6 
 - pro saver
 - Rubber bands
-##### hobbiking
+
+##### hobbyking
 - buzzers ----------------- x3 = 7.23€
 - 3 motors
 - 3 ESC ----------------- 25-30A ESC (x3) EU18.83
