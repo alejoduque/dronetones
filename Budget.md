@@ -25,8 +25,6 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - http://www.hobbyking.com/hobbyking/store/__39339__HXT900_9g_1_6kg_12sec_Micro_Servo_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__33379__Turnigy_9X_2_4GHz_8Ch_Receiver_V2_EU_warehouse_.html or http://www.hobbyking.com/hobbyking/store/__33383__Hobby_King_2_4Ghz_Receiver_6Ch_V2_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36250__APC_style_propeller_9x6_E_EU_warehouse_.html
-- http://www.hobbyking.com/hobbyking/store/__5512__JXF_10x6_254_x_152_5mm_Poly_Composite_propeller.html
-- http://www.hobbyking.com/hobbyking/store/__5518__JXF_11x6_279_x_152_5mm_Poly_Composite_propeller.html
 - http://www.hobbyking.com/hobbyking/store/__46532__APC_Style_Propeller_8x6_2_pc_EU_Warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36248__APC_style_propeller_8x6_E_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36246__APC_style_propeller_8x4_E_EU_warehouse_.html
@@ -44,6 +42,10 @@ We will build them and recycle but might have to fix things in St. Nazaire so ha
 - http://www.hobbyking.com/hobbyking/store/__36274__Male_JST_battery_pigtail_10cm_length_10pcs_bag_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__36275__Female_JST_battery_pigtail_12cm_length_10pcs_bag_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__31474__JST_XH_3S_Wire_Extension_20cm_10pcs_bag_EU_warehouse_.html
+
+- 10x6 propeller
+- 11x6 propeller
+- pro saver
 
 the cost of 3 planes (materials) + electronic + batteries + spares should be around 300€
 
