@@ -24,8 +24,6 @@
 - propeller 10x6 ----------------- 3€ (each)
 - propeller 11x6 ----------------- 3€ (each)
 - pro saver
-- Rubber bands
-- shipping charges
 
 ##### hobbyking (313€)
 
@@ -53,6 +51,7 @@
 
 ### Other things to consider + Things we bring:
 - LED lights for flying at dusk.
+- Rubber bands
 
 #### Guiding Systems:
 Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
