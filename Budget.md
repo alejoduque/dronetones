@@ -4,7 +4,7 @@
 
 ## Things to buy:
 
-### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
+### Materials for building 3 identical planes:
 
 #### various (20€)
 - Foam core (x2)
@@ -43,7 +43,7 @@
 - 20.8% TVA : 49.56
 - shipping charges : 25€
 
-##### 3drobotics (30€)
+#### 3drobotics (30€)
 - Cable to provide battery voltage readings on the OnScreenDisplay and feed volt power to the Ardupilot 
 useful for FPV. [See here](https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors)
 
