@@ -47,15 +47,13 @@
 -[Cable to provide battery voltage readings on the OnScreenDisplay and feed volt power to the Ardupilot 
 useful for FPV](https://store.3drobotics.com/products/apm-power-module-with-xt60-connectors)
 
-### Other things to consider 
-- LED lights for flying at dusk.
-
 ### Things we bring:
 - Rubber bands
 - 2 transmitter box to control the models
 - 2 battery charger
 - 2 cameras / micro
 - 2 audio / video wireless transmission system
+- LED lights for flying at dusk
 
 #### Guiding Systems:
 Is possible to automate any of the flying devices using something like the ArduPilot that has already a very advanced interface: 
