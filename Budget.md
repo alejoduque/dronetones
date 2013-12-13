@@ -5,6 +5,10 @@
 
 **With a ~1.1m widespan to be built using:** 
 
+## Things to buy:
+
+#### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
+
 - foam core (x1/2)
 - 1x100x1000mm (x2) balsa wood
 - 2x100x1000mm balsa wood
@@ -18,18 +22,13 @@
 - 11x6 propeller
 - pro saver
 
-
-
-## Things to buy:
-- materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 - 3 different motors
 - 3 ESC
 - 2 receivers for tgx9
 - 6 battery packs
 - 14 micro servos
-- differents propeller
-- prop saver + lot's of rubber
-- various connectors
+- lot's of rubber
+- connectors
 - misc item
 
 
