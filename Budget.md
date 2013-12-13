@@ -4,26 +4,26 @@
 
 ## Things to buy:
 
-#### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
+### Materials for building 3 identical planes (wood / tape / paper / glue / linkage stopper)
 
-##### various (20€)
+#### various (20€)
 - Foam core (x2)
 - kraft paper
 - glue
 
 
-##### euromodel / paris (45€)
+#### euromodel / paris (45€)
 - balsa wood 1x100x1000mm (x6) 
 - balsa wood 2x100x1000mm (x3)
 - carbon bar  0.5x3x1000mm (x3)
 - samba wood 3x10x1000mm (x3)
 - piano sting 1mm (x6)
 - tube (x6)
-- propeller 10x6 ----------------- 
-- propeller 11x6 ----------------- 
+- propeller 10x6  
+- propeller 11x6  
 - pro saver
 
-##### hobbyking (313€)
+#### hobbyking (313€)
 
 - 3 diferents motors ----------- [link](http://www.hobbyking.com/hobbyking/store/__44596__NTM_Prop_Drive_Series_28_26_1100kv_252w_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__31699__NTM_Prop_Drive_28_26_1000KV_235W_EU_warehouse_.html) [link](http://www.hobbyking.com/hobbyking/store/__36425__NTM_Prop_Drive_28_26_1350KV_302W_EU_warehouse_.html) 38.09€
 - 3 motor accesories [link](http://www.hobbyking.com/hobbyking/store/__31698__NTM_Prop_Drive_28_Series_Accessory_Pack_EU_warehouse_.html) 4.89€
