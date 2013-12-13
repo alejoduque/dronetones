@@ -74,10 +74,14 @@ One can have a plane circling at least, but yes we need another pair of eyes.. l
 
 -LED lights for flying at dusk.
 
+
 ### Batteries:
 
 Depending on the kind of plane we should get some new batteries, also for powering the FPV system:
-http://hobbyking.com/hobbyking/store/__86__85__Batteries_Accessories-Li_Poly_All_brands_.html
+
+-1800mA battery. OK for 10min performance. (x3)
+-1500mA x ?
+-2200mA x 2
 
 ### Adapter/Cables:
 
