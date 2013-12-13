@@ -34,6 +34,15 @@ http://www.hobbyking.com/hobbyking/store/__41772__Wing_Tape_45mic_x_45_mm_x_100m
 http://www.hobbyking.com/hobbyking/store/__34523__Wing_Tape_45mic_x_45_mm_x_100m_Wide_Red_EU_warehouse_.html
 
 the cost of 3 planes (materials) + electronic + batteries should be around 250€
+### things to buy:
+- materials for building 3 identical planes (wood / tape / paper / glue / likage stopper)
+- 3 motors
+- 3 ESC (+ connectors)
+- 3 receiver for tgx9 (or 2 + 1 for an other transmitter box? or maybe just 2 if you have a spare one)
+- 3 battery pack (or 4)?
+- 12 micro servos (or maybe we should have 2 spare)?
+- 2 set of 3 propeller
+- prop saver + lot's of rubber
 
 ### Guiding Systems:
 
