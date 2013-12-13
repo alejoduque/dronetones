@@ -9,8 +9,8 @@
 - Foam core (x1/2)
 - kraft paper
 
-1x100x1000mm (x2) balsa wood
-2x100x1000mm balsa wood
+- 1x100x1000mm (x2) balsa wood
+- 2x100x1000mm balsa wood
 - 0.5x3x1000mm carbon bar
 - 3x10x1000mm samba wood
 - 1mm CAP + tube (x2)
