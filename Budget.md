@@ -33,6 +33,9 @@ http://www.hobbyking.com/hobbyking/store/__41739__TGS_Sport_7x6E_Precision_prope
 - http://www.hobbyking.com/hobbyking/store/__41772__Wing_Tape_45mic_x_45_mm_x_100m_Wide_Blue_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__34523__Wing_Tape_45mic_x_45_mm_x_100m_Wide_Red_EU_warehouse_.html
 - http://www.hobbyking.com/hobbyking/store/__49606__Turnigy_Receiver_Controlled_Switch_EU_Warehouse_.html
+- http://www.hobbyking.com/hobbyking/store/__43162__Flat_26AWG_servo_wire_1mtr_R_O_B_EU_warehouse_.html
+- http://www.hobbyking.com/hobbyking/store/__36274__Male_JST_battery_pigtail_10cm_length_10pcs_bag_EU_warehouse_.html
+- http://www.hobbyking.com/hobbyking/store/__36275__Female_JST_battery_pigtail_12cm_length_10pcs_bag_EU_warehouse_.html
 
 the cost of 3 planes (materials) + electronic + batteries should be around 250€
 ### things to buy:
