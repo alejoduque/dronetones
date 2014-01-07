@@ -6,3 +6,7 @@
 * flute / whistle
 * a fixed rigid plastic that hurt the motor (or propeller) during it's rotation
 * electronic beeper
+
+
+#Listening devices (war tech)
+http://io9.com/these-vintage-sound-locators-are-weirder-than-they-look-1493142020
