@@ -7,4 +7,3 @@ dronetones
 <BR>
 <B>THE PRECEDING PROJECT WAS </B>
 <a href=http://coop.re/?BDDWS>BDDWS | BRINGING DOWN DRONES WITH STONES</a>
-<img src="https://raw.githubusercontent.com/alejoduque/dronetones/master/imgs/DroneTone_crossing_planes_1bit.jpg" /> <br>
