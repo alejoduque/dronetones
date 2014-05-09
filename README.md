@@ -6,5 +6,5 @@ dronetones
 <a href=https://github.com/alejoduque/dronetones/wiki/Drone-Sound> D R O N E _ S O U N D</a> &
 <a href=http://coop.re/?DroneTone> D R O N E _ T O N E</a>
 <BR>
-<B>THE PRECEDING PROJECT WAS </B>
-<a href=http://coop.re/?BDDWS>BDDWS | BRINGING DOWN DRONES WITH STONES</a>
+<B>BDDWS </B>
+<a href=http://coop.re/?BDDWS> | BRINGING DOWN DRONES WITH STONES</a>
